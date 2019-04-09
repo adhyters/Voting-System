@@ -1,0 +1,9 @@
+[08-Apr-2019 15:06:32 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/trevizoco/demo.trevizo.co.id/config/db.php on line 15
+[08-Apr-2019 15:06:32 Asia/Jakarta] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/trevizoco/demo.trevizo.co.id/classes/StudentLogin.php on line 41
+[09-Apr-2019 08:43:07 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/trevizoco/demo.trevizo.co.id/config/db.php on line 15
+[09-Apr-2019 08:43:33 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/trevizoco/demo.trevizo.co.id/config/db.php on line 15
+[09-Apr-2019 08:43:33 Asia/Jakarta] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/trevizoco/demo.trevizo.co.id/classes/StudentLogin.php on line 41
+[09-Apr-2019 10:34:59 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/trevizoco/demo.trevizo.co.id/config/db.php on line 15
+[09-Apr-2019 10:34:59 Asia/Jakarta] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/trevizoco/demo.trevizo.co.id/classes/StudentLogin.php on line 41
+[09-Apr-2019 10:36:17 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/trevizoco/demo.trevizo.co.id/config/db.php on line 15
+[09-Apr-2019 10:36:17 Asia/Jakarta] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/trevizoco/demo.trevizo.co.id/classes/StudentLogin.php on line 41
